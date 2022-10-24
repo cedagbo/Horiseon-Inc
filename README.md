@@ -9,9 +9,8 @@ to enable firms to launch successful products. The integration of technology in 
 customers, and provide them the rights services to meet their needs.
 Furthermore, the setting up of this company's website takes into consideration web accessibility which is of 
 paramount importance. More specifically, we integrate it in the process to enable everyone especially users with 
-disabilities to access the website more easily. 
-We allow them to positively interact on the digital platform , and therefore generate more traffic.
-Giving a close attention to the structure of HTML, we encourage the flow of screen reading.
+disabilities to access the website more easily. We allow them to positively interact on the digital platform , 
+and therefore generate more traffic. 
 
 ## Licence
 
