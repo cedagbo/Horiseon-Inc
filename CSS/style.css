@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Style the header tag */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,7 +45,7 @@ a {
     text-decoration: none;
 }
 
-
+/* Style the main image and the other images representing the navigation tabs */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +70,8 @@ a {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Style the benefits and set it to the right of the page*/
 
 .benefits {
     margin-right: 20px;
@@ -128,6 +132,8 @@ a {
     max-width: 150px;
 }
 
+/* Style the main content of the website associated to the navigation tabs*/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -155,6 +161,7 @@ a {
     color: #ffffff;
 }
 
+/* Style the images related to the navigation tags*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -186,6 +193,7 @@ aside{
     display: contents;
 }
 
+/* Style the footer*/
 .footer {
     padding: 30px;
     clear: both;
