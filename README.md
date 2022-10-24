@@ -12,3 +12,9 @@ paramount importance. More specifically, we integrate it in the process to enabl
 disabilities to access the website more easily. 
 We allow them to positively interact on the digital platform , and therefore generate more traffic.
 Giving a close attention to the structure of HTML, we encourage the flow of screen reading.
+
+## Licence
+
+MIT License
+
+Copyright (c) 2022 cedagbo
