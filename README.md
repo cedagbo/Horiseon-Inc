@@ -60,7 +60,7 @@ Licensed under MIT License. See license for more information.
 Copyright (c) 2022 cedagbo
 
 ### Deployment
-Website: https://cedagbo.github.io/horiseon
+Website: https://cedagbo.github.io/horiseon <br/>
 Repositary: https://github.com/cedagbo/Horiseon-Inc
 
 ## Author
