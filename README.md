@@ -15,7 +15,6 @@ and therefore generate more traffic.
     <li> Technologies </li>
     <li> Installation </li>
     <li> Usage </li>
-    <li> Optimisation </li>
     <li> Contributors </li>
     <li> Documentation </li>
     <li> License </li>
@@ -60,7 +59,7 @@ Licensed under MIT License. See license for more information.
 
 Copyright (c) 2022 cedagbo
 
-### Desployment
+### Deployment
 Website: https://cedagbo.github.io/horiseon
 Repositary: https://github.com/cedagbo/Horiseon-Inc
 
