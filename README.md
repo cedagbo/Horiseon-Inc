@@ -15,6 +15,7 @@ and therefore generate more traffic.
     <li> Technologies </li>
     <li> Installation </li>
     <li> Usage </li>
+    <li> Optimisation </li>
     <li> Contributors </li>
     <li> Documentation </li>
     <li> License </li>
@@ -28,7 +29,7 @@ and therefore generate more traffic.
 <img src="./Horiseon-Inc_index.html.png">
 
 ## Technologies
-Project is created with:
+The project is created with:
 - HTML 5
 - CSS
 
@@ -37,6 +38,9 @@ We reviewed the HTML and CSS files through VS Code to ensure a perfect accessibi
 
 ## Usage
 Refer to the url of the website.
+
+## Optimisation
+
 
 ## Contributors
 
@@ -58,6 +62,10 @@ Here are the following documentations:
 Licensed under MIT License. See license for more information.
 
 Copyright (c) 2022 cedagbo
+
+### Desployment
+Website: https://cedagbo.github.io/horiseon
+Repositary: https://github.com/cedagbo/Horiseon-Inc
 
 ## Author
 @cedagbo
