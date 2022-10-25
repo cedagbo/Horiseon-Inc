@@ -12,6 +12,8 @@ and therefore generate more traffic.
 
 <ul>
     <li> Screenshot </li>
+    <li> User Story </li>
+    <li> Acceptance Criteria </li>
     <li> Technologies </li>
     <li> Installation </li>
     <li> Usage </li>
@@ -26,6 +28,22 @@ and therefore generate more traffic.
 ## Screenshot
 
 <img src="./Horiseon-Inc_index.html.png">
+
+## User Story
+As a marketing agency 
+I want a codebase that follows accessibility standards so that our own site is optimised for search engines.
+
+## Acceptance Criteria
+
+<ul>
+    <li>Semantic HTML elemets can be found throughout the source of code.</li>
+    <li>HTML elements follow a logitical structure independent of styling and positioning.</li>
+    <li>Image and icon elements contain accessible <strong>alt</strong> attributes.</li>
+    <li>Heading attributes fall in sequential order.</li>
+    <li?>Title elements contain a concise, descriptive title.</li?>
+
+</ul>
+
 
 ## Technologies
 The project is created with:
