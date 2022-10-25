@@ -39,9 +39,6 @@ We reviewed the HTML and CSS files through VS Code to ensure a perfect accessibi
 ## Usage
 Refer to the url of the website.
 
-## Optimisation
-
-
 ## Contributors
 
 We worked on this mini project alongside:
