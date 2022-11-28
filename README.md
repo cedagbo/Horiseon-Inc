@@ -71,7 +71,7 @@ Here are the following documentations:
 - https://www.w3schools.com
 - https://www.developer.mozilla.org/en-US/
 
-## Licence
+## License
 
 Licensed under MIT License. See license for more information.
 
